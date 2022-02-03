@@ -1,0 +1,44 @@
+li {
+  list-style: none;
+}
+li{
+  padding-left: 2rem;
+}
+h1{
+  font-size: 1rem;
+}
+
+
+.navbar>nav {
+
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+}
+
+ul{
+  display: flex;
+}
+.imagephoto{
+    height: 140vh;
+    width: 95vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.skills{
+  display: flex;
+}
+.skills>div{
+  text-align: center;
+  margin-top: 2rem;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;  
+}
+.footer>p{
+  font-size: 25px;
+}
+
